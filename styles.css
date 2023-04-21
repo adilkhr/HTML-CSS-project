@@ -43,3 +43,45 @@
         border-bottom: none!important;
     }
 }
+
+/*-- heroimage Styling --*/
+
+.heroimage{
+    background-image: url('https://images.unsplash.com/photo-1579298245158-33e8f568f7d3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1490&q=80');
+    background-size: contain;
+    width: 100%;
+    padding-top: 66.6666667%;
+    background-repeat: no-repeat;
+}
+
+/*-- Gym Cards styling --*/
+
+#Goals {
+    background-color: #fff;
+}
+
+#Goals h1 {
+    font-weight: 900;
+    font-size: 34px;
+    padding-bottom: 5px;
+    margin-top: 20px;
+}
+
+#Goals p {
+    font-family: 'Roboto', sans-serif;
+}
+
+.title {
+    text-align: center;
+    padding: 25px 0px;
+}
+
+.card-body {
+    box-shadow: 0 0 20px 7px rgba(0,0,0,0.1);
+}
+
+.card {
+    margin: 20px 10px;
+}
+
+
