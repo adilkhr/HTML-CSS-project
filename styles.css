@@ -68,10 +68,6 @@
     margin-top: 20px;
 }
 
-#Goals p {
-    font-family: cursive;
-}
-
 #Goals h5 {
     font-family: 'Bungee', cursive;
     font-weight: 900;
@@ -120,7 +116,6 @@
 }
 
 #schedule p {
-    font-family: cursive;
     font-size: 17px;
 }
 
@@ -199,8 +194,4 @@
     font-size: 34px;
     padding-bottom: 5px;
     margin-top: 20px;
-}
-
-#Gallery p {
-    font-family: cursive;
 }
