@@ -73,6 +73,10 @@
     font-weight: 900;
 }
 
+#Goals p {
+    font-family: sans-serif;
+}
+
 .card-header {
     box-shadow: 0 0 10px 5px rgba(223, 6, 6, 0.753);
 }
@@ -117,6 +121,7 @@
 
 #schedule p {
     font-size: 17px;
+    font-family: sans-serif;
 }
 
 /*-- Event info & Image styling --*/
